@@ -16,9 +16,9 @@ There is no audio file.
 
 Some sentences may be correct but due to order in sentences it may show incorrect.
 For ex:-
-我不知道她。
-and
-她不知道我。
+<br>我不知道她。
+<br>and
+<br>她不知道我。
 
 Both sentences are correct. But after clicking 'check' button, it will show answer according to order of characters in the sentences.
 
@@ -33,8 +33,8 @@ Cards have following fields
 ```
 Add value to respective fields but it should be noted, {{Splitted}} field must contain sentences with spaces between characters.
 For ex:-
-我 不 知道 她 。
-用 手机 学习 汉语 。
+<br>我 不 知道 她 。
+<br>用 手机 学习 汉语 。
 
 # Images
 ![Image 1](https://raw.githubusercontent.com/infinyte7/Anki-Chinese-Grammar-Practice/master/Decks%20File/image1.png)
