@@ -1,2 +1,56 @@
 # Anki-Chinese-Grammar-Practice
-Practice Chinese language grammar 
+Practice Chinese language grammar.
+
+Cards contain example sentence from AllSet Learning's Chinese Grammar Wiki. I used existing anki deck [Visit](https://ankiweb.net/shared/info/782551504). It contains A1 to C1 (HSK1 to HSK5).
+
+### Note: The deck will updated regularly.
+
+## Quick start
+Download Anki deck from ankiweb and import it in Anki or Ankidroid.
+
+[Chinese Grammar Practice](https://ankiweb.net/shared/info/86203928)
+
+## Disclaimer
+I used existing [deck](https://ankiweb.net/shared/info/782551504) data for developing this. I have removed and edited some sentences.
+There is no audio file.
+
+Some sentences may be correct but due to order in sentences it may show incorrect.
+For ex:-
+我不知道她。
+and
+她不知道我。
+
+Both sentences are correct. But after clicking 'check' button, it will show answer according to order of characters in the sentences.
+
+## For adding sentences to deck
+Cards have following fields
+```
+{{中文}}
+{{Pinyin}}
+{{English}}
+...
+{{Splitted}} //--> it store chinese sentence with space between characters. It is generated using [jieba] (https://github.com/fxsjy/jieba).
+```
+Add value to respective fields but it should be noted, {{Splitted}} field must contain sentences with spaces between characters.
+For ex:-
+我 不 知道 她 。
+用 手机 学习 汉语 。
+
+# Images
+![Image 1](https://raw.githubusercontent.com/infinyte7/Anki-Chinese-Grammar-Practice/master/Decks%20File/image1.png)
+![Image 2](https://raw.githubusercontent.com/infinyte7/Anki-Chinese-Grammar-Practice/master/Decks%20File/image2.png)
+
+## Please report any issues.
+### Any contribution will be appreciated
+
+# License
+[Chinese Grammar Wiki Study Deck](https://ankiweb.net/shared/info/782551504)
+Chris Dodge
+[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+[Chinese Grammar Wiki ©2011-2020 AllSet Learning](https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights)
+[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+Anki-Chinese-Grammar-Practice
+Infinyte7
+[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
