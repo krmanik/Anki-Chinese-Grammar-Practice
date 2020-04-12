@@ -44,13 +44,13 @@ For ex:-
 ### Any contribution will be appreciated
 
 # License
-[Chinese Grammar Wiki Study Deck](https://ankiweb.net/shared/info/782551504)
-Chris Dodge
-[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+<b>[Chinese Grammar Wiki Study Deck](https://ankiweb.net/shared/info/782551504)</b>
+<br>Chris Dodge
+<br>[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-[Chinese Grammar Wiki ©2011-2020 AllSet Learning](https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights)
-[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+<b>[Chinese Grammar Wiki ©2011-2020 AllSet Learning](https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights)</b>
+<br>[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Anki-Chinese-Grammar-Practice
-Infinyte7
-[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+<b>Anki-Chinese-Grammar-Practice</b>
+<br>Infinyte7
+<br>[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
