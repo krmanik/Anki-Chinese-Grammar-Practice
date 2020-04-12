@@ -1,0 +1,141 @@
+.card {
+font-family: arial;
+font-size: 30px;
+text-align: center;
+color: black;
+background-color: white;
+}
+
+.hanzi {
+font-family: SimSun;
+font-size: 28px;
+}
+
+.pinyin {
+color: gray;
+}
+
+.translation {
+font-size: 26px;
+}
+
+.lessonInfoHanzi {
+font-family: SimSun;
+font-size: 12px;
+}
+
+.lessonInfo {
+font-family: arial;
+font-size: 10px;
+}
+
+.english {
+font-family: arial;
+font-size: 20px;
+}
+
+.notes {
+font-family: arial;
+font-size: 12px;
+color: gray;
+}
+
+.spacer {
+height: 20px;
+}
+
+.spacerSmall {
+height: 3px;
+}
+
+.spacerMedium {
+height: 10px;
+}
+
+
+/*https://codepen.io/danielkvist/pen/xMLKJN*/
+:root {
+    --gray: #ddd;
+    --white: #fdfdfd;
+    --blue: hsla(199, 82%, 52%, 1);
+    --blue-bkg: hsla(199, 82%, 70%, 0.35);
+    --blue-font: hsla(199, 82%, 35%, 1);
+  }
+.btn-q {
+    background-color: var(--white);
+    border: 2px solid var(--gray);
+    border-bottom: 5px solid var(--gray);
+    border-radius: 9px;
+    font-size: 1rem;
+    padding: 0.25rem 0.35rem;
+    margin: 0.2rem;
+  }
+.btn-q:active{
+    transform: scaleX(0.9) translateY(4px);
+}
+
+.btn-a {
+    background-color: var(--white);
+    border: 2px solid var(--gray);
+    border-bottom: 5px solid var(--gray);
+    border-radius: 9px;
+    font-size: 1rem;
+    padding: 0.25rem 0.35rem;
+    margin: 0.2rem;
+  }
+.btn-a:active{
+    transform: scaleX(0.9) translateY(4px);
+}
+
+.text{
+    border: 1px solid green ;
+    padding: 10px;
+}
+/*https://codepen.io/guerrav/pen/oXZLjd*/
+.btn-check {
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 7px;
+    transition: all 0.2s;
+    margin: 5px;
+    border-bottom: 4px solid #00796B;
+    background: #009688;
+}
+
+.btn-check:active{
+    transform: scaleX(0.9) translateY(4px);
+}
+
+.btn-reset {
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 7px;
+    transition: all 0.2s;
+    margin: 5px;
+    border-bottom: 4px solid #c62828;
+    background: #e53935;
+}
+
+.btn-reset:active{
+    transform: scaleX(0.9) translateY(4px);
+}
+
+.btn-hint {
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 7px;
+    transition: all 0.2s;
+    margin: 5px;
+    border-bottom: 4px solid #43A047;
+    background: #4CAF50;
+}
+
+.btn-hint:active{
+    transform: scaleX(0.9) translateY(4px);
+}
