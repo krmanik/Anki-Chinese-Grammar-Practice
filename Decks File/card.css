@@ -1,0 +1,176 @@
+.card {
+    --qa-color: black;
+    --pinyin-color: black;
+    --link-color: #2196f3;
+    --hanzi-color: black;
+    --translation-color: black;
+    
+    font-family: arial;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    }
+    
+    .card.night_mode{
+    --qa-color: black;
+    --pinyin-color: white;
+    --link-color: #2196f3;
+    --hanzi-color: white;
+    --translation-color: white;
+    
+    }
+    
+    .hanzi {
+    font-family: SimSun;
+    font-size: 28px;
+    color: var(--hanzi-color);
+    }
+    
+    .pinyin {
+    color: var(--pinyin-color);
+    }
+    
+    .translation {
+     color: var(--translation-color);
+    }
+    
+    .lessonInfoHanzi {
+    font-family: SimSun;
+    font-size: 12px;
+    }
+    
+    .lessonInfo {
+    font-family: arial;
+    font-size: 10px;
+    }
+    
+    .english {
+    font-family: arial;
+    font-size: 20px;
+    }
+    
+    .notes {
+    font-family: arial;
+    font-size: 12px;
+    color: gray;
+    }
+    
+    .spacer {
+    height: 20px;
+    }
+    
+    .spacerSmall {
+    height: 3px;
+    }
+    
+    .spacerMedium {
+    height: 10px;
+    }
+    
+    .link {
+     color: var(--link-color);
+    }
+    
+    /*https://codepen.io/danielkvist/pen/xMLKJN*/
+    :root {
+        --gray: #ddd;
+        --white: #fdfdfd;
+        --blue: hsla(199, 82%, 52%, 1);
+        --blue-bkg: hsla(199, 82%, 70%, 0.35);
+        --blue-font: hsla(199, 82%, 35%, 1);
+      }
+    .btn-q {
+        background-color: var(--white);
+        border: 2px solid var(--gray);
+        border-bottom: 5px solid var(--gray);
+        border-radius: 9px;
+        font-size: 2rem;
+        padding: 0.25rem 0.35rem;
+        margin: 0.2rem;
+        display:inline-block;
+        
+      }
+    .btn-q:active{
+        transform: scaleX(0.9) translateY(4px);
+    }
+    
+    .btn-a {
+        background-color: var(--white);
+        border: 2px solid var(--gray);
+        border-bottom: 5px solid var(--gray);
+        border-radius: 9px;
+        font-size: 2.5rem;
+        padding: 0.25rem 0.35rem;
+        margin: 0.2rem;
+        display:inline-block;
+        color:black;
+      }
+    .btn-a:active{
+        transform: scaleX(0.9) translateY(4px);
+    }
+    
+    .text{
+        border: 1px solid green ;
+        padding: 10px;
+    }
+    /*https://codepen.io/guerrav/pen/oXZLjd*/
+    .btn-check {
+        border-radius: 10px;
+        border: none;
+        padding: 10px;
+        color: white;
+        border-radius: 7px;
+        transition: all 0.2s;
+        margin: 5px;
+        border-bottom: 4px solid #00796B;
+        background: #009688;
+        outline: none;
+    }
+    
+    .btn-check:active{
+        transform: scaleX(0.9) translateY(4px);
+    }
+    
+    .btn-reset {
+        border-radius: 10px;
+        border: none;
+        padding: 10px;
+        color: white;
+        border-radius: 7px;
+        transition: all 0.2s;
+        margin: 5px;
+        border-bottom: 4px solid #c62828;
+        background: #e53935;
+        outline: none;
+    }
+    
+    .btn-reset:active{
+        transform: scaleX(0.9) translateY(4px);
+    }
+    
+    .btn-hint {
+        border-radius: 10px;
+        border: none;
+        padding: 10px;
+        color: white;
+        border-radius: 7px;
+        transition: all 0.2s;
+        margin: 5px;
+        border-bottom: 4px solid #43A047;
+        background: #4CAF50;
+        outline: none;
+    }
+    
+    .btn-hint:active{
+        transform: scaleX(0.9) translateY(4px);
+    }
+    
+    @media screen and (max-width: 480px) {
+        .btn-a {
+             font-size: 1.5rem;
+        }
+        .btn-q{
+            font-size: 1.5rem;
+        }
+    }
