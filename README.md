@@ -36,6 +36,45 @@ For ex:-
 <br>我 不 知道 她 。
 <br>用 手机 学习 汉语 。
 
+# To Change size of characters in sentences.
+### question button
+Change this,
+```
+font-size: 1rem;
+```
+<b>in following</b>
+```css
+.btn-q {
+    background-color: var(--white);
+    border: 2px solid var(--gray);
+    border-bottom: 5px solid var(--gray);
+    border-radius: 9px;
+    font-size: 2rem;
+    padding: 0.25rem 0.35rem;
+    margin: 0.2rem;
+    display:inline-block;
+  }
+```
+
+### answer button
+Change this,
+```
+font-size: 1rem;
+```
+<b>in following</b>
+```css
+.btn-a {
+    background-color: var(--white);
+    border: 2px solid var(--gray);
+    border-bottom: 5px solid var(--gray);
+    border-radius: 9px;
+    font-size: 1rem;
+    padding: 0.25rem 0.35rem;
+    margin: 0.2rem;
+    display:inline-block;
+  }
+```
+
 # Images
 ![Image 1](https://raw.githubusercontent.com/infinyte7/Anki-Chinese-Grammar-Practice/master/Decks%20File/image1.png)
 ![Image 2](https://raw.githubusercontent.com/infinyte7/Anki-Chinese-Grammar-Practice/master/Decks%20File/image2.png)
