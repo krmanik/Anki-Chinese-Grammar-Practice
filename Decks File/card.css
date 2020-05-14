@@ -69,6 +69,7 @@ height: 10px;
     font-size: 1rem;
     padding: 0.25rem 0.35rem;
     margin: 0.2rem;
+    display:inline-block;
   }
 .btn-q:active{
     transform: scaleX(0.9) translateY(4px);
@@ -82,6 +83,7 @@ height: 10px;
     font-size: 1rem;
     padding: 0.25rem 0.35rem;
     margin: 0.2rem;
+    display:inline-block;
   }
 .btn-a:active{
     transform: scaleX(0.9) translateY(4px);
