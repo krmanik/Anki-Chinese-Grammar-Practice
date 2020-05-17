@@ -98,5 +98,5 @@ font-size: 1rem;
 <br>[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 <b>Anki-Chinese-Grammar-Practice</b>
-<br>Infinyte7
+<br>Mani (Infinyte7)
 <br>[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
